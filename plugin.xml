@@ -4,6 +4,8 @@
     <engines>
       <engine name="cordova" version=">=4.0.0" />
     </engines>
+        <dependency id="cordova-plugin-compat" version="^1.2.0" />	
+
 
 
   <js-module name="cordova-plugin-pdf-reader" src="www/cordova-plugin-pdf-reader.js">
